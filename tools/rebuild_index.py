@@ -23,7 +23,7 @@ for kind in sorted(os.listdir(tdir)) if os.path.isdir(tdir) else []:
             "id": tid,
             "kind": kind,
             "name": meta.get("name", tid),
-            "author": meta.get("author", ""),
+            "author": meta.get("username") or meta.get("author", ""),
             "description": meta.get("description", ""),
             "path": f"templates/{kind}/{tid}",
             "files": files,
