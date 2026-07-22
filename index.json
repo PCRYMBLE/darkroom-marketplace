@@ -1,4 +1,17 @@
 {
-  "templates": [],
+  "templates": [
+    {
+      "author": "pcrymble",
+      "description": "UK Union jack",
+      "files": [
+        "sticker-7262f4.png"
+      ],
+      "id": "sticker-7262f4.png",
+      "kind": "sticker",
+      "name": "sticker-7262f4",
+      "path": "templates/sticker/sticker-7262f4.png",
+      "thumb": "templates/sticker/sticker-7262f4.png/sticker-7262f4.png"
+    }
+  ],
   "version": 1
 }
