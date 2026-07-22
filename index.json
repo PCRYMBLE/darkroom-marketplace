@@ -11,6 +11,18 @@
       "name": "sticker-7262f4",
       "path": "templates/sticker/sticker-7262f4.png",
       "thumb": "templates/sticker/sticker-7262f4.png/sticker-7262f4.png"
+    },
+    {
+      "id": "sticker-apprtest.png",
+      "kind": "sticker",
+      "name": "Approval Test",
+      "author": "pcrymble",
+      "description": "One-click approval pipeline test",
+      "path": "templates/sticker/sticker-apprtest.png",
+      "files": [
+        "sticker-apprtest.png"
+      ],
+      "thumb": "templates/sticker/sticker-apprtest.png/sticker-apprtest.png"
     }
   ],
   "version": 1
