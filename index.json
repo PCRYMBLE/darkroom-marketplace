@@ -11,6 +11,18 @@
       "name": "sticker-7262f4",
       "path": "templates/sticker/sticker-7262f4.png",
       "thumb": "templates/sticker/sticker-7262f4.png/sticker-7262f4.png"
+    },
+    {
+      "id": "sticker-8a2135.png",
+      "kind": "sticker",
+      "name": "sticker-8a2135",
+      "author": "pcrymble",
+      "description": "Slovenian Flag",
+      "path": "templates/sticker/sticker-8a2135.png",
+      "files": [
+        "sticker-8a2135.png"
+      ],
+      "thumb": "templates/sticker/sticker-8a2135.png/sticker-8a2135.png"
     }
   ],
   "version": 1
