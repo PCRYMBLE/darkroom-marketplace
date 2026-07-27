@@ -1,0 +1,18 @@
+{
+  "aspect" : 1.5,
+  "frameImageFile" : "frame.png",
+  "id" : "vintage-luggage-tag",
+  "name" : "Vintage Luggage Tag",
+  "textZone" : {
+    "alignment" : "center",
+    "defaultFont" : "Homemade Apple",
+    "defaultSize" : 20,
+    "id" : "6FB07208-0FBF-45EB-AD62-693A1F3DE1A6",
+    "rect" : {
+      "h" : 0.5237589619700748,
+      "w" : 0.6170251454696591,
+      "x" : 0.28885793329177056,
+      "y" : 0.2457771586658354
+    }
+  }
+}
