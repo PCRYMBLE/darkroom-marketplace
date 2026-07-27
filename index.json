@@ -35,6 +35,19 @@
         "sticker-8a2135.png"
       ],
       "thumb": "templates/sticker/sticker-8a2135.png/sticker-8a2135.png"
+    },
+    {
+      "id": "vintage-luggage-tag",
+      "kind": "headline",
+      "name": "Vintage Luggage Tag",
+      "author": "pcrymble",
+      "description": "Vintage paper luggage tag",
+      "path": "templates/headline/vintage-luggage-tag",
+      "files": [
+        "frame.png",
+        "template.json"
+      ],
+      "thumb": "templates/headline/vintage-luggage-tag/frame.png"
     }
   ],
   "version": 1
