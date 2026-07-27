@@ -1,6 +1,18 @@
 {
   "templates": [
     {
+      "id": "bg:cream-leather.jpg",
+      "kind": "background",
+      "name": "Cream Leather",
+      "author": "pcrymble",
+      "description": "Cream leather background",
+      "path": "templates/background/bg:cream-leather.jpg",
+      "files": [
+        "cream-leather.jpg"
+      ],
+      "thumb": null
+    },
+    {
       "author": "pcrymble",
       "description": "UK Union jack",
       "files": [
