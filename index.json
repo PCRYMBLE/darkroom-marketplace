@@ -13,6 +13,19 @@
       "thumb": "templates/background/bg:cream-leather.jpg/cream-leather.jpg"
     },
     {
+      "id": "leather-tag-with-window",
+      "kind": "headline",
+      "name": "Leather tag with window",
+      "author": "pcrymble",
+      "description": "Leather tag with window",
+      "path": "templates/headline/leather-tag-with-window",
+      "files": [
+        "frame.png",
+        "template.json"
+      ],
+      "thumb": "templates/headline/leather-tag-with-window/frame.png"
+    },
+    {
       "author": "pcrymble",
       "description": "UK Union jack",
       "files": [
