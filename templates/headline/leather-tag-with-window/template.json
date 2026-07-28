@@ -1,0 +1,32 @@
+{
+  "aspect" : 3.0299065420560747,
+  "extraZones" : [
+    {
+      "alignment" : "center",
+      "defaultFont" : "Permanent Marker",
+      "defaultSize" : 8,
+      "id" : "02600978-EA43-44DD-8DA2-E28D22A93724",
+      "rect" : {
+        "h" : 0.17598409223758962,
+        "w" : 0.5473181805463857,
+        "x" : 0.36382667599542756,
+        "y" : 0.6078747355044474
+      }
+    }
+  ],
+  "frameImageFile" : "frame.png",
+  "id" : "leather-tag-with-window",
+  "name" : "Leather tag with window",
+  "textZone" : {
+    "alignment" : "center",
+    "defaultFont" : "Permanent Marker",
+    "defaultSize" : 20,
+    "id" : "38DE45DD-AD88-4217-A12D-C7A6A6FDE0EC",
+    "rect" : {
+      "h" : 0.36587787313101205,
+      "w" : 0.5494697261663057,
+      "x" : 0.3634076249589897,
+      "y" : 0.23183937855936665
+    }
+  }
+}
