@@ -50,6 +50,18 @@
       "thumb": "templates/sticker/sticker-8a2135.png/sticker-8a2135.png"
     },
     {
+      "id": "sticker-aecc4b.png",
+      "kind": "sticker",
+      "name": "sticker-aecc4b",
+      "author": "pcrymble",
+      "description": "Lauda Air Sticker",
+      "path": "templates/sticker/sticker-aecc4b.png",
+      "files": [
+        "sticker-aecc4b.png"
+      ],
+      "thumb": "templates/sticker/sticker-aecc4b.png/sticker-aecc4b.png"
+    },
+    {
       "id": "vintage-luggage-tag",
       "kind": "headline",
       "name": "Vintage Luggage Tag",
