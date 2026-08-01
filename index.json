@@ -74,6 +74,18 @@
       "thumb": "templates/sticker/sticker-aecc4b.png/sticker-aecc4b.png"
     },
     {
+      "id": "sticker-ed8b55.png",
+      "kind": "sticker",
+      "name": "sticker-ed8b55",
+      "author": "pcrymble",
+      "description": "Man conforting a woman",
+      "path": "templates/sticker/sticker-ed8b55.png",
+      "files": [
+        "sticker-ed8b55.png"
+      ],
+      "thumb": "templates/sticker/sticker-ed8b55.png/sticker-ed8b55.png"
+    },
+    {
       "id": "vintage-luggage-tag",
       "kind": "headline",
       "name": "Vintage Luggage Tag",
