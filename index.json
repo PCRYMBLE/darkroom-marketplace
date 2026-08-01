@@ -26,6 +26,18 @@
       "thumb": "templates/headline/leather-tag-with-window/frame.png"
     },
     {
+      "id": "sticker-48a16a.png",
+      "kind": "sticker",
+      "name": "sticker-48a16a",
+      "author": "pcrymble",
+      "description": "Removal Man",
+      "path": "templates/sticker/sticker-48a16a.png",
+      "files": [
+        "sticker-48a16a.png"
+      ],
+      "thumb": "templates/sticker/sticker-48a16a.png/sticker-48a16a.png"
+    },
+    {
       "author": "pcrymble",
       "description": "UK Union jack",
       "files": [
