@@ -62,6 +62,18 @@
       "thumb": "templates/sticker/sticker-8a2135.png/sticker-8a2135.png"
     },
     {
+      "id": "sticker-ad4629.png",
+      "kind": "sticker",
+      "name": "sticker-ad4629",
+      "author": "pcrymble",
+      "description": "God is Good",
+      "path": "templates/sticker/sticker-ad4629.png",
+      "files": [
+        "sticker-ad4629.png"
+      ],
+      "thumb": "templates/sticker/sticker-ad4629.png/sticker-ad4629.png"
+    },
+    {
       "id": "sticker-aecc4b.png",
       "kind": "sticker",
       "name": "sticker-aecc4b",
