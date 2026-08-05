@@ -26,6 +26,18 @@
       "thumb": "templates/headline/leather-tag-with-window/frame.png"
     },
     {
+      "id": "sticker-3e7b24.png",
+      "kind": "sticker",
+      "name": "sticker-3e7b24",
+      "author": "pcrymble",
+      "description": "Robot Lawnmower - Yuka by Mammotion",
+      "path": "templates/sticker/sticker-3e7b24.png",
+      "files": [
+        "sticker-3e7b24.png"
+      ],
+      "thumb": "templates/sticker/sticker-3e7b24.png/sticker-3e7b24.png"
+    },
+    {
       "id": "sticker-48a16a.png",
       "kind": "sticker",
       "name": "sticker-48a16a",
