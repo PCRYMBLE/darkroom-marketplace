@@ -38,6 +38,18 @@
       "thumb": "templates/sticker/sticker-3e7b24.png/sticker-3e7b24.png"
     },
     {
+      "id": "sticker-3e980f.png",
+      "kind": "sticker",
+      "name": "sticker-3e980f",
+      "author": "pcrymble",
+      "description": "Happy Birthday Balloons",
+      "path": "templates/sticker/sticker-3e980f.png",
+      "files": [
+        "sticker-3e980f.png"
+      ],
+      "thumb": "templates/sticker/sticker-3e980f.png/sticker-3e980f.png"
+    },
+    {
       "id": "sticker-48a16a.png",
       "kind": "sticker",
       "name": "sticker-48a16a",
